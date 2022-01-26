@@ -11,4 +11,4 @@ Good exercise
 2. https://medium.com/@junyoung_lee/predicting-insurance-premiums-708113cb64f3
 3. https://medium.com/towards-formula-1-analysis/formula-1-data-analysis-tutorial-2021-russian-gp-to-box-or-not-to-box-da6399bd4a39
 4. https://github.com/kitao/pyxel
-5. 
+5. https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.SGDRegressor.html?highlight=sgdregress#sklearn.linear_model.SGDRegressor
