@@ -2,6 +2,12 @@
 
 https://github.com/ekaratnida/Applied-machine-learning
 
+
+## Homework before next class
+- https://github.com/pvalentinez/streamlit_kmean
+- https://www.facebook.com/pok.pok.330467/videos/2951253655201242
+
+
 # applied-machine-learning
 | Week  |  Topic | Exam |
 | ----  |  ---- | ---- |
