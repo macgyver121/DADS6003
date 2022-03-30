@@ -1,6 +1,6 @@
-Create venv https://docs.python.org/3/library/venv.html
+1. Create venv https://docs.python.org/3/library/venv.html
 
-Install requirements.txt
+2. Install requirements.txt
 - create automatic : pip3 freeze > requirment.txt
 
-Run: streamlit run app.py
+3. Run: streamlit run app.py
