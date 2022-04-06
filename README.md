@@ -2,6 +2,7 @@
 
 https://github.com/ekaratnida/Applied-machine-learning
 
+https://numer.ai/
 
 # applied-machine-learning
 | Week  |  Topic | Exam |
