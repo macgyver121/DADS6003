@@ -9,5 +9,7 @@ https://www.hackerearth.com/practice/machine-learning/machine-learning-algorithm
 
 https://www.learnbymarketing.com/481/decision-tree-flavors-gini-info-gain/
 
+https://www.analyticssteps.com/blogs/what-gini-index-and-information-gain-decision-trees
+
 ## Detail [p.597 ~ 617]
 https://github.com/probml/pml-book/releases/latest/download/book1.pdf
