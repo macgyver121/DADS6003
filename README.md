@@ -110,3 +110,5 @@ https://github.com/ml874/Data-Science-Cheatsheet/blob/master/data-science-cheats
 ### Probability
 https://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf
 
+### Standardization vs Normalization
+https://www.analyticsvidhya.com/blog/2020/04/feature-scaling-machine-learning-normalization-standardization/
