@@ -122,3 +122,6 @@ https://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011
 
 ### Standardization vs Normalization
 https://www.analyticsvidhya.com/blog/2020/04/feature-scaling-machine-learning-normalization-standardization/
+
+### Machine learning กับ ธนาคาร
+https://www.gsbresearch.or.th/wp-content/uploads/2018/06/20IN_hotissue_AI_internet_detail.pdf
