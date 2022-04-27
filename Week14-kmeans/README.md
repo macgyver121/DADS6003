@@ -20,3 +20,13 @@ Calculating Silhouette Score and Comparing to the Mean-Shift Algorithm
 Train and Test Split
 
 Using a Train-Test Split to Evaluate Clustering Performance
+
+## Reference
+
+
+https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html
+
+Siloutte
+
+https://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_silhouette_analysis.html
+
