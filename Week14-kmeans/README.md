@@ -30,3 +30,9 @@ Siloutte
 
 https://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_silhouette_analysis.html
 
+## One-Hot Encoding
+
+https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.OneHotEncoder.html
+
+https://lengyi.medium.com/one-hot-encoding-737c66e5b1bd
+
