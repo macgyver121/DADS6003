@@ -36,3 +36,6 @@ https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.OneHotEn
 
 https://lengyi.medium.com/one-hot-encoding-737c66e5b1bd
 
+## np.where => create new column based-on if else 
+
+https://www.dataquest.io/blog/tutorial-add-column-pandas-dataframe-based-on-if-else-condition/
